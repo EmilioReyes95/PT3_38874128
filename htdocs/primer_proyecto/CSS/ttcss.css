@@ -1,0 +1,26 @@
+.logo img {
+    width:40%;
+    align-self: center;
+}
+
+    body {
+        background-color: rgb(7, 165, 113);
+    }
+
+
+.carousel-item {
+    max-height: 39rem;
+
+}
+h5 {
+    text-align: start;
+}
+
+p {
+    text-align: start;
+}
+.container-ad {
+    background-color:rgb(186, 226, 213);
+    text-align: justify;
+}
+
